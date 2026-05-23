@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Prasad%20Wadkar!%20%F0%9F%91%8B&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Blockchain%20&%20AI%20Enthusiast&descAlignY=55&descAlign=50" alt="header"/>
 </div>
 
-<h3 align="center">Welcome to my creative space! I'm a passionate developer studying Computer Science & Business Systems at Bharati Vidyapeeth College of Engineering, Pune.</h3>
+<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Welcome to my creative space! I'm a passionate developer studying Computer Science & Business Systems at Bharati Vidyapeeth College of Engineering, Pune.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prasadwadkarr/">
@@ -41,26 +41,37 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Pay-Per-Use-AI](https://github.com/WPrasad99/Decentralized-Portaldot-Pay-Per-Use-AI-)** | A decentralized AI marketplace using Portaldot as the core on-chain execution and payment infrastructure. | JavaScript, Web3 |
-| **[CertiCraft](https://github.com/WPrasad99/certicrafttt)** | Professional-grade platform to automate the creation, distribution, and verification of digital certificates securely. | JavaScript, React, Node.js |
-| **[InsightX](https://github.com/WPrasad99/InsightX)** | A modern tech solution repository. | TypeScript |
-| **[Debugers_United](https://github.com/WPrasad99/Debugers_United)** | A taxonomy for open-source cryptocurrency, blockchain, and decentralized ecosystems. | Python |
+<div align="center">
+  <a href="https://github.com/WPrasad99/Decentralized-Portaldot-Pay-Per-Use-AI-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WPrasad99&amp;repo=Decentralized-Portaldot-Pay-Per-Use-AI-&amp;theme=tokyonight&amp;bg_color=0D1117&amp;border_color=30363D&amp;show_icons=true" alt="Pay-Per-Use-AI" width="48%" />
+  </a>
+  <a href="https://github.com/WPrasad99/certicrafttt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WPrasad99&amp;repo=certicrafttt&amp;theme=tokyonight&amp;bg_color=0D1117&amp;border_color=30363D&amp;show_icons=true" alt="CertiCraft" width="48%" />
+  </a>
+</div>
+<br />
+<div align="center">
+  <a href="https://github.com/WPrasad99/InsightX">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WPrasad99&amp;repo=InsightX&amp;theme=tokyonight&amp;bg_color=0D1117&amp;border_color=30363D&amp;show_icons=true" alt="InsightX" width="48%" />
+  </a>
+  <a href="https://github.com/WPrasad99/khushboo-pathshala">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WPrasad99&amp;repo=khushboo-pathshala&amp;theme=tokyonight&amp;bg_color=0D1117&amp;border_color=30363D&amp;show_icons=true" alt="Khushboo Pathshala" width="48%" />
+  </a>
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WPrasad99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Prasad's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WPrasad99&theme=tokyonight&hide_border=true&background=0D1117" alt="Prasad's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WPrasad99&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" alt="Prasad's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WPrasad99&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117" alt="Prasad's GitHub Streak" width="48%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WPrasad99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WPrasad99&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
