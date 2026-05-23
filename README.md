@@ -31,59 +31,40 @@
 ### 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nodejs,express,mongodb,mysql,git,github,docker,linux,bash,solidity,rust,tailwind,bootstrap,firebase,vercel,vscode,figma&amp;perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nodejs,express,mongodb,mysql,git,github,docker,linux,bash,solidity,rust,tailwind,bootstrap,firebase,vercel,vscode,figma&perline=8" alt="Tech Stack" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-<table align="center" border="0" style="border: none; background-color: transparent;">
-  <tr>
-    <td align="center" style="border: none; background-color: transparent;">
-      <a href="https://github.com/WPrasad99/Decentralized-Portaldot-Pay-Per-Use-AI-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WPrasad99&repo=Decentralized-Portaldot-Pay-Per-Use-AI-&theme=tokyonight&bg_color=0D1117&border_color=30363D&show_icons=true" alt="Pay-Per-Use-AI" />
-      </a>
-    </td>
-    <td align="center" style="border: none; background-color: transparent;">
-      <a href="https://github.com/WPrasad99/certicrafttt">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WPrasad99&repo=certicrafttt&theme=tokyonight&bg_color=0D1117&border_color=30363D&show_icons=true" alt="CertiCraft" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border: none; background-color: transparent;">
-      <a href="https://github.com/WPrasad99/InsightX">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WPrasad99&repo=InsightX&theme=tokyonight&bg_color=0D1117&border_color=30363D&show_icons=true" alt="InsightX" />
-      </a>
-    </td>
-    <td align="center" style="border: none; background-color: transparent;">
-      <a href="https://github.com/WPrasad99/khushboo-pathshala">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WPrasad99&repo=khushboo-pathshala&theme=tokyonight&bg_color=0D1117&border_color=30363D&show_icons=true" alt="Khushboo Pathshala" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+[![Pay-Per-Use-AI](https://github-readme-stats.vercel.app/api/pin/?username=WPrasad99&repo=Decentralized-Portaldot-Pay-Per-Use-AI-&theme=tokyonight)](https://github.com/WPrasad99/Decentralized-Portaldot-Pay-Per-Use-AI-)
+[![CertiCraft](https://github-readme-stats.vercel.app/api/pin/?username=WPrasad99&repo=certicrafttt&theme=tokyonight)](https://github.com/WPrasad99/certicrafttt)
+
+[![InsightX](https://github-readme-stats.vercel.app/api/pin/?username=WPrasad99&repo=InsightX&theme=tokyonight)](https://github.com/WPrasad99/InsightX)
+[![Khushboo Pathshala](https://github-readme-stats.vercel.app/api/pin/?username=WPrasad99&repo=khushboo-pathshala&theme=tokyonight)](https://github.com/WPrasad99/khushboo-pathshala)
+
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
-<table align="center" border="0" style="border: none; background-color: transparent;">
-  <tr>
-    <td align="center" style="border: none; background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api?username=WPrasad99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Prasad's GitHub stats" />
-    </td>
-    <td align="center" style="border: none; background-color: transparent;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=WPrasad99&theme=tokyonight&hide_border=true&background=0D1117" alt="Prasad's GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+[![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=WPrasad99&show_icons=true&theme=tokyonight)](https://github.com/WPrasad99)
+[![Prasad's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WPrasad99&theme=tokyonight)](https://github.com/WPrasad99)
+
+</div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WPrasad99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WPrasad99&layout=compact&theme=tokyonight)](https://github.com/WPrasad99)
+
 </div>
 
 ---
