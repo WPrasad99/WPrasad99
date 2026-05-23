@@ -31,10 +31,7 @@
 ### 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nodejs,express,mongodb,mysql,git,github,docker,linux,bash" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,rust,tailwind,bootstrap,firebase,vercel,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nodejs,express,mongodb,mysql,git,github,docker,linux,bash,solidity,rust,tailwind,bootstrap,firebase,vercel,vscode,figma&amp;perline=8" alt="Tech Stack" />
 </p>
 
 ---
