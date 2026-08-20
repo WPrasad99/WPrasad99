@@ -40,11 +40,19 @@
 
 <div align="center">
 
-[![Pay-Per-Use-AI](https://github-readme-stats.vercel.app/api/pin/?username=WPrasad99&repo=Decentralized-Portaldot-Pay-Per-Use-AI-&theme=tokyonight)](https://github.com/WPrasad99/Decentralized-Portaldot-Pay-Per-Use-AI-)
-[![CertiCraft](https://github-readme-stats.vercel.app/api/pin/?username=WPrasad99&repo=certicrafttt&theme=tokyonight)](https://github.com/WPrasad99/certicrafttt)
+  <a href="https://github.com/WPrasad99/Decentralized-Portaldot-Pay-Per-Use-AI-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WPrasad99&repo=Decentralized-Portaldot-Pay-Per-Use-AI-&theme=tokyonight" alt="Pay-Per-Use-AI" width="400" />
+  </a>
+  <a href="https://github.com/WPrasad99/certicrafttt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WPrasad99&repo=certicrafttt&theme=tokyonight" alt="CertiCraft" width="400" />
+  </a>
 
-[![InsightX](https://github-readme-stats.vercel.app/api/pin/?username=WPrasad99&repo=InsightX&theme=tokyonight)](https://github.com/WPrasad99/InsightX)
-[![Khushboo Pathshala](https://github-readme-stats.vercel.app/api/pin/?username=WPrasad99&repo=khushboo-pathshala&theme=tokyonight)](https://github.com/WPrasad99/khushboo-pathshala)
+  <a href="https://github.com/WPrasad99/InsightX">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WPrasad99&repo=InsightX&theme=tokyonight" alt="InsightX" width="400" />
+  </a>
+  <a href="https://github.com/WPrasad99/khushboo-pathshala">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WPrasad99&repo=khushboo-pathshala&theme=tokyonight" alt="Khushboo Pathshala" width="400" />
+  </a>
 
 </div>
 
@@ -54,8 +62,12 @@
 
 <div align="center">
 
-[![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=WPrasad99&show_icons=true&theme=tokyonight)](https://github.com/WPrasad99)
-[![Prasad's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WPrasad99&theme=tokyonight)](https://github.com/WPrasad99)
+  <a href="https://github.com/WPrasad99">
+    <img src="https://github-readme-stats.vercel.app/api?username=WPrasad99&show_icons=true&theme=tokyonight" alt="Prasad's GitHub stats" height="192" />
+  </a>
+  <a href="https://github.com/WPrasad99">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WPrasad99&theme=tokyonight" alt="Prasad's GitHub Streak" height="192" />
+  </a>
 
 </div>
 
@@ -63,7 +75,9 @@
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WPrasad99&layout=compact&theme=tokyonight)](https://github.com/WPrasad99)
+  <a href="https://github.com/WPrasad99">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WPrasad99&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
 
 </div>
 
