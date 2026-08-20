@@ -82,38 +82,7 @@ Ask Me About:
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WPrasad99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WPrasad99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8&langs_count=8" height="180" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=WPrasad99&theme=tokyonight&hide_border=true&background=0d1117&stroke=e94560&ring=e94560&fire=ff6b6b&currStreakLabel=e94560&dates=a8b2d8" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WPrasad99&theme=tokyo-night&bg_color=0d1117&color=e94560&line=e94560&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WPrasad99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
 
 <br/>
 
